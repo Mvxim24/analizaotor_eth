@@ -1,0 +1,5 @@
+aiogram
+ccxt
+pandas
+plotly
+kaleido
