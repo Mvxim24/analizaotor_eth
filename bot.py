@@ -7,7 +7,7 @@ from aiogram.filters import Command
 from datetime import datetime
 
 # --- НАСТРОЙКИ (ЗАМЕНИТЕ ТОКЕН!) ---
-API_TOKEN = 'ВАШ_НОВЫЙ_ТОКЕН_ОТ_BOTFATHER'
+API_TOKEN = '8726753006:AAGI8F1B63zi0UyqtMHN3nYg4UwJh6owFaY'
 SYMBOL = 'ETH/USDT'
 TIMEFRAME = '15m'
 CHECK_INTERVAL = 300  # 5 минут
